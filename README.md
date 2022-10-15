@@ -5,7 +5,7 @@
 - Main.py is where assessment solution is run.
 
 #### Steps to run Assessment solutions:
-- Pull repo with `git pull`
+- Pull repo with `git pull https://github.com/Sanmi-Owoka/data2bots-assessment.git`
 - Creation of virtual environment is optional as there are no added python packages
 - To run assessment solution run `python3 main.py` in the command line
 - To run tests run: `python3 -m tests.test_main` in the command line.
