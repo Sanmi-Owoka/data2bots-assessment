@@ -1,0 +1,14 @@
+{
+    "time": {
+        "type": "integer",
+        "tag": "",
+        "description": "",
+        "required": false
+    },
+    "internationalCountries": {
+        "type": "enum",
+        "tag": "",
+        "description": "",
+        "required": false
+    }
+}
